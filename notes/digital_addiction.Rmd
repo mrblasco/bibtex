@@ -1,0 +1,36 @@
+---
+bibliography: [refs.bib]
+colorlinks: blue
+link-citations: yes
+csl: apa.csl
+---
+
+
+# Digital addiction 
+
+## What is Digital Addiction?
+
+## Interventions 
+
+- Grayscale mode (colorscale mode is more engaging and disruptive of attention)
+- App time limits (people lose track of time)
+- App repositioning (e.g., move social app away from home screen, minimal Home Screen to avoid distractions)
+-  Notification control / Focus mode (limit notification for a certain time or turn-off notifications)
+- Positive reinforcements (e.g., streaks of days not using social media)
+- Feedback 
+
+Another classification; 
+
+- Digital Self-Control Tools vs Nudging mechanisms
+
+These interventiosn can be more or less restrictive --- minimal home screen or time limits are most restrictive. 
+
+- @monge2023nudging tested (NudgeApp) that automatically identifies scrolling and suggests a break (n = ?).
+
+- @zimmermann2020digital conducted a RCT (N = 112) testing the effectiveness of "passive" (turning screen to grayscale) vs "active" nudges (setting time limits) vs. a control. The study found evidence that nudges reduce screen time. 
+
+- @okeke2018good tracked smartphone use for three weeks of a small sample of Mturk workers (n = 50) randomising them into groups.
+
+@biedermann2023use surveyed students (n = 273)
+
+# References 
