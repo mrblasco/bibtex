@@ -8,8 +8,8 @@ To get started with the repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/digital-addiction-research.git
-   cd digital-addiction-research
+   git clone https://github.com/yourusername/bibtex-citations.git
+   cd bibtex-citations
    ```
 
 ## Contributing
