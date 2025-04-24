@@ -1,0 +1,21 @@
+---
+bibliography: [../references.bib]
+csl: [https://www.zotero.org/styles/apa]
+link-citations: true
+---
+
+# Notes on the literature on smartphone use 
+
+## Academic achievement 
+
+Research has explored the effect of smartphone use on academic achievement [see @amez2020smartphone for a literature review]. 
+
+A longitudinal study on how smartphone use influences academic performance of a sample of college students from a Belgian university finds that _____ [@amez2023smartphone]
+
+Digital self-control tools can promote a healthy consumption. @biedermann2023use conducted a survey to investigate the use of digital self-control tools among students. This researsh shows that _____
+
+## Digital addiction
+
+There is a taxonomy of technology design features that are considered potentially addictive [@flayelle2023taxonomy].
+
+# References
