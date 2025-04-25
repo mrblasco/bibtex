@@ -1,0 +1,18 @@
+---
+bibliography: [../main.bib]
+csl: [https://www.zotero.org/styles/apa]
+link-citations: true
+---
+
+@dennison2020basic argues that when communication messaging regarding migration policy is "concordant" with its audience, it is more likely to be effective; it then reviews 135 migration communication campaigns. It shows that few pro-migration campaigns contained value-based messaging, while anti-migration ones did. 
+
+
+## Useful links
+
+Websites on political adds:
+
+- https://adstransparency.google.com/political?region=BE&topic=political
+
+Dataset on migration communication campaigns 
+
+- https://cadmus.eui.eu/handle/1814/76561
