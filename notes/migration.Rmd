@@ -4,15 +4,77 @@ csl: [https://www.zotero.org/styles/apa]
 link-citations: true
 ---
 
-@dennison2020basic argues that when communication messaging regarding migration policy is "concordant" with its audience, it is more likely to be effective; it then reviews 135 migration communication campaigns. It shows that few pro-migration campaigns contained value-based messaging, while anti-migration ones did. 
+# Public Perceptions of Migrants, Asylum Seekers, and Refugees
 
 
-## Useful links
+## Measurement and Survey Modules
 
-Websites on political adds:
+- @card2005understanding develops module for ESS about migration.
+- @abdelaaty2022explaining uses data from the European Social Survey (ESS) to show significant differences in perceptions of immigrants vs refugees.
 
-- https://adstransparency.google.com/political?region=BE&topic=political
+## Economic Insecurity, Socioeconomic and Skill-Based Attitudes
 
-Dataset on migration communication campaigns 
+- @mayda2006against uses cross-section data from OECD countries to test factors shaping attitudes towards immigrants.
+- @hainmueller2007educated shows differences among educated people in attitudes towards migrants.
+- @hainmueller2010attitudes studies attitudes towards high vs low skill migrants.
+- @hainmueller2015concerns concerns about market competition.
+- @margalit2019economic economic insecurity
 
-- https://cadmus.eui.eu/handle/1814/76561
+## Social Trust and Contact
+
+- @herreros2009social considers social trust shapting attitudes.
+- @enos2014causal tests social contact increases inclusionary attitudes.
+- @alesina2018immigration argues that diversity between US and EU in attitudes towards migrants can be explained by differences in redistribution preferences, due to historical reasons; role of government.
+- @rustenbach2010sources factors of negative attitudes.
+
+## Misperceptions, Steretypes
+
+- @herda2010how shows misperceptions.
+- @bursztyn2022misperceptions misperceptions about others. 
+- @alesina2018revealing stereotpypes at school 
+
+## The Role of Religion and Values
+
+- @mcdaniel2011divine 
+- @bloom2015religious focus on religion drivers.
+- @de2022refugee significant differences among refugee groups; refs. Ukrainians vs Syrian.
+
+## General Reviews of Public Opinion Research
+
+- @hainmueller2014public reviews public attitudes.
+- @dempster2017understanding survey of attitudes. 
+- @heath2016europeans different attitudes in the EU. 
+
+
+## Experimental Evidence on Migrant and Refugee Preferences
+
+- @bansak2016economic uses a conjoint experiment to study preferences over asylum seekers.
+- @krawczyk2024support employes conjoint experiment to estimate willingness to allow temporary protecion to groups of refugees varying demographics and reasons to seek asylum. 
+
+
+# The role of messaging in Migration Policy
+
+## Perspective-Taking and Emotions
+
+- @adida2018perspective @galinsky2000perspective perspective-taking 
+- @brader2008triggers anxiety?
+- @simonovits2018seeing 
+- @hopkins2019muted correct misperceptions
+
+## Effective Communication Strategies
+
+- @facchini2022countering the effect of information campaigns. 
+- @dennison2020basic argues that when communication messaging regarding migration policy is "concordant" with its audience, it is more likely to be effective; it then reviews 135 migration communication campaigns, showing that anti-migration campaigns contained more value-based messaging.
+
+
+# Useful links
+
+- [Google Ads Transparency — Political Ads in Belgium](https://adstransparency.google.com/political?region=BE&topic=political)
+- [Dataset on Migration Communication Campaigns](https://cadmus.eui.eu/handle/1814/76561)
+
+
+
+# References
+
+::: {#refs}
+:::
