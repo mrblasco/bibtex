@@ -6,3 +6,8 @@ link-citations: true
 
 # Misinformation
 
+- @teramoto2025feature uses [Fact-Check Insights]() dataset to train a model that automatically extracts claims and predicts urgency of fact-checking. 
+
+## LLMs in fact-checking
+
+- @fontana2025evaluating uses [Fact-Check Insights]() dataset to compare performance of LLMs vs fine-tuned models like Roberta.
